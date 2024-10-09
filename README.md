@@ -40,6 +40,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TxKlaus/TxKlaus/snake.yml" alt="Snake animation" />
 
-###
