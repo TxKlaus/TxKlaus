@@ -38,7 +38,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/TxKlaus/TxKlaus/output/snake.svg" alt="Snake animation" />
-
-###
